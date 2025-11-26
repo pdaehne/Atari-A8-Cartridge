@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30mm"
+   height="21.5mm"
+   viewBox="0 0 30 21.5"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="rd4_off_rd5_off.light.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.3444583"
+     inkscape:cx="88.043197"
+     inkscape:cy="59.961446"
+     inkscape:window-width="1680"
+     inkscape:window-height="888"
+     inkscape:window-x="163"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.8354745,-47.583504)">
+    <g
+       id="g2"
+       style="fill:#e6e6e6">
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.15492"
+         id="rect1"
+         width="30"
+         height="21.5"
+         x="2.8354745"
+         y="47.583504" />
+    </g>
+    <path
+       id="rect4-3"
+       style="fill:none;stroke:#000000;stroke-width:0.2"
+       d="m 14.283381,64.789057 v -8.8 H 24.58338 l 1.11e-4,8.8"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.301258;stroke-dasharray:none"
+       id="rect3-3-9-9-41"
+       width="3.1987417"
+       height="1.1987417"
+       x="17.834009"
+       y="58.040058" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.169231;stroke-dasharray:none"
+       id="rect3-3-9-9-41-5"
+       width="1.1"
+       height="1.1"
+       x="17.883474"
+       y="58.089893" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.301258;stroke-dasharray:none"
+       id="rect3-3-9-9-41-6"
+       width="3.1987417"
+       height="1.1987417"
+       x="17.834009"
+       y="61.54052" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.169231;stroke-dasharray:none"
+       id="rect3-3-9-9-41-5-5"
+       width="1.1"
+       height="1.1"
+       x="17.883492"
+       y="61.590355" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       x="13.167158"
+       y="59.794086"
+       id="text1-1-0-3-4-3"><tspan
+         sodipodi:role="line"
+         style="text-align:end;text-anchor:end;fill:#000000;stroke-width:0.264583"
+         x="13.167158"
+         y="59.794086"
+         id="tspan3">RD4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       x="19.415607"
+       y="54.30571"
+       id="text1-1-0-3-4-3-2"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         x="19.415607"
+         y="54.30571"
+         id="tspan3-4">RDx: off⇆on</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       x="13.238471"
+       y="63.270058"
+       id="text1-1-0-3-4-3-4"><tspan
+         sodipodi:role="line"
+         style="text-align:end;text-anchor:end;fill:#000000;stroke-width:0.264583"
+         x="13.238471"
+         y="63.270058"
+         id="tspan3-0">RD5</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30mm"
+   height="21.5mm"
+   viewBox="0 0 30 21.5"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="slot1.light.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.3444583"
+     inkscape:cx="88.043197"
+     inkscape:cy="59.961446"
+     inkscape:window-width="1680"
+     inkscape:window-height="888"
+     inkscape:window-x="163"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.8354745,-47.583504)">
+    <g
+       id="g2"
+       style="fill:#e6e6e6">
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.15492"
+         id="rect1"
+         width="30"
+         height="21.5"
+         x="2.8354745"
+         y="47.583504" />
+    </g>
+    <path
+       id="rect4-3-1"
+       style="fill:none;stroke:#000000;stroke-width:0.235867"
+       d="m 15.215183,50.194664 v 12.282065 h 10.264133 l 1.11e-4,-12.282065"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.301258;stroke-dasharray:none"
+       id="rect3-3-9-9-41"
+       width="3.1987417"
+       height="1.1987417"
+       x="18.747934"
+       y="52.245216" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.169231;stroke-dasharray:none"
+       id="rect3-3-9-9-41-5"
+       width="1.1"
+       height="1.1"
+       x="20.797049"
+       y="52.295052" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.301258;stroke-dasharray:none"
+       id="rect3-3-9-9-41-6"
+       width="3.1987417"
+       height="1.1987417"
+       x="18.747934"
+       y="55.745678" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.169231;stroke-dasharray:none"
+       id="rect3-3-9-9-41-5-5"
+       width="1.1"
+       height="1.1"
+       x="20.7974"
+       y="55.795513" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.301258;stroke-dasharray:none"
+       id="rect3-3-9-9-41-6-7"
+       width="3.1987417"
+       height="1.1987417"
+       x="18.747934"
+       y="59.245289" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.169231;stroke-dasharray:none"
+       id="rect3-3-9-9-41-5-5-3"
+       width="1.1"
+       height="1.1"
+       x="20.7974"
+       y="59.295124" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       x="14.152465"
+       y="53.999245"
+       id="text1-1-0-3-4-3"><tspan
+         sodipodi:role="line"
+         style="text-align:end;text-anchor:end;fill:#000000;stroke-width:0.264583"
+         x="14.152465"
+         y="53.999245"
+         id="tspan3">A13</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       x="20.431797"
+       y="66.29406"
+       id="text1-1-0-3-4-3-2"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         x="20.431797"
+         y="66.29406"
+         id="tspan3-4">A1x: 1⇆0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       x="14.152396"
+       y="57.475216"
+       id="text1-1-0-3-4-3-4"><tspan
+         sodipodi:role="line"
+         style="text-align:end;text-anchor:end;fill:#000000;stroke-width:0.264583"
+         x="14.152396"
+         y="57.475216"
+         id="tspan3-0">A14</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:sans-serif;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       x="14.152396"
+       y="61.002728"
+       id="text1-1-0-3-4-3-4-3"><tspan
+         sodipodi:role="line"
+         style="text-align:end;text-anchor:end;fill:#000000;stroke-width:0.264583"
+         x="14.152396"
+         y="61.002728"
+         id="tspan1">A15</tspan></text>
+  </g>
+</svg>
