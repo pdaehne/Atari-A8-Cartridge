@@ -186,11 +186,11 @@ There are three types of ROMs supported by this cartridge:
   3. 16 KiB ROMs that get mapped at address range 32768-49151 ($8000-$bfff).
 
 The following table show the settings used to configure the cartridge for these
-three types of ROMs (and a fourth configation which disables the cartridge). You
-have to set the RD4 and RD5 dip switches, connect the top, middle or bottom two
-pins of the 2x3 pin header for the Chip Select signal, and you have to connect
-either the left two or the right two pins of the 3x1 pin header for the 8 KiB /
-16 KiB ROM size:
+three types of ROMs (and a fourth configuration which disables the cartridge).
+You have to set the RD4 and RD5 DIP switches, connect the top, middle or bottom
+two pins of the 2x3 pin header for the Chip Select signal, and you have to
+connect either the left two or the right two pins of the 3x1 pin header for the
+8 KiB / 16 KiB ROM size:
 
 | RD4 / RD5 | Chip Select | ROM Size | Meaning |
 |-----------|-------------|----------| --------|
@@ -307,7 +307,7 @@ to "disable" to prevent clearing the data from the previous steps.
 
 [![Programming Slots 3 and 4 of the EPROM](images/Xgpro_Program_Slot3_Slot4.preview.png)](images/Xgpro_Program_Slot3_Slot4.png?raw=1)
 
-Last, we have to load the 16 KiB image of Donkey Kong into the fifth and sixth
+Last, we have to load the 16 KiB image of Pac Man into the fifth and sixth
 slots of the EPROM. In the file selection dialog, we select the image file
 "pacman.rom". Again this is a raw image without a header. In the "Load mode"
 box, we set the "From File Start Addr(Hex)" to "00000", and the "TO Buffer Strat
