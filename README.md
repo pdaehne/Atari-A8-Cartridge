@@ -152,6 +152,22 @@ headers!
 [![Soldering the Pin Header](images/Soldering_PinHeader_8k_16k.preview.jpg)](images/Soldering_PinHeader_8k_16k.jpg?raw=1)
 [![Jumpers on the Back](images/Jumpers_8k_16k.preview.jpg)](images/Jumpers_8k_16k.jpg?raw=1)
 
+### 3D-Printing a Case
+
+In the subdirectory "[case](case)" of this repository there are STL files you can use to
+print a case for the cartridge on your 3D printer. I even managed to fit an
+EPROM with its socket into this case, but your mileage may vary, depending on
+the length of the EPROM legs. You need two self-tapping flat-headed M3 Phillips
+screws. Mine had a length of 12mm, but any length between 10mm and 17mm should
+work.
+
+There are two variants of the top part of the case, one with holes you can use
+to access the DIP switches and the pin headers, and one closed version in case
+your cartridge uses a fixed configuration.
+
+[![Case Top](images/Case-Top.preview.jpg)](images/Case-Top.jpg?raw=1)
+[![Case Top](images/Case-Bottom.preview.jpg)](images/Case-Bottom.jpg?raw=1)
+
 ### Using the Cartridge
 
 This section explains how to use the cartridge, i.e. how to burn one or more
